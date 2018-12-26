@@ -1,0 +1,10 @@
+-- git commands
+
+git init.
+ git remote
+
+git config user.name "git pra"
+
+
+
+
